@@ -5,11 +5,11 @@ Table of Contents:
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Features](#features)
-2. [Components Used](#Components Used)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [Licence](#licence)
+3.[Components_used](#Components_Used)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+
 
 
 
