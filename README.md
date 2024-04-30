@@ -41,5 +41,5 @@ Stay informed with real-time alerts about proximity.
 Follow the guidance provided to maintain safe distances.
 Contribute to public health by promoting social distancing.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
