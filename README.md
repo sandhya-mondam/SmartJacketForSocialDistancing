@@ -3,9 +3,9 @@ Smart jacket uses sensors to detect proximity, alerting wearers of unsafe distan
 
 Table of Contents:
 ## Table of Contents
+
 1. [Overview](#Overview)
 2. [Features](#features)
-   
 3.[Components_used](#Components_Used)
 4. [Installation](#installation)
 5. [Usage](#usage)
