@@ -24,11 +24,11 @@ Encourages adherence to social distancing guidelines.
 Aids in preventing the spread of contagious diseases.
 
 ## Components Used
-Arduino Uno microcontroller
-Ultrasonic distance sensors (3)
-LCD 16x2 display
-Buzzer
-9-volt battery
+1. Arduino Uno microcontroller
+2. Ultrasonic distance sensors (3)
+3. LCD 16x2 display
+4. Buzzer
+5. 9-volt battery
 
 ## Installation
 Clone the repository: git clone <repository_url>
